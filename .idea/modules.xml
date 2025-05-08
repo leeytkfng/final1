@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.demo.reservation-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.demo.reservation-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.demo.user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.demo.user-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.flight-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.flight-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flight-reservation.iml" filepath="$PROJECT_DIR$/.idea/flight-reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-reservation-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-reservation-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-reservation-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-reservation-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-reservation-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-reservation-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-reservation-server.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-reservation-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-reservation-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-reservation-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-reservation-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-reservation-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-service.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flight-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/flight-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reservation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/reservation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reservation-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/reservation-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.test.iml" />
+    </modules>
+  </component>
+</project>
